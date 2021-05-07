@@ -18,6 +18,11 @@ namespace ExceptionTestApp
                 {
                     Console.WriteLine($"문제발생. {ex.Message} 관리자에게 문의하세요.");
                 }
+                finally
+                {
+                    Console.WriteLine("Finally, 언제든지 실행됨");
+
+                }
             }
             Console.WriteLine("다른 로직 수행");
 
