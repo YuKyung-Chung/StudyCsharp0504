@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice210507", "Practice2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMyListApp", "GenericMyListApp\GenericMyListApp.csproj", "{3D26CFFC-12FA-4B92-BED9-36E01842E1B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollectionApp", "GenericCollectionApp\GenericCollectionApp.csproj", "{41D37835-FC94-414F-8247-5307767FC08F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionTestApp", "ExceptionTestApp\ExceptionTestApp.csproj", "{E00F22E1-26F7-42F3-AAE2-015A21F09732}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{3D26CFFC-12FA-4B92-BED9-36E01842E1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D26CFFC-12FA-4B92-BED9-36E01842E1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D26CFFC-12FA-4B92-BED9-36E01842E1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D37835-FC94-414F-8247-5307767FC08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D37835-FC94-414F-8247-5307767FC08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D37835-FC94-414F-8247-5307767FC08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D37835-FC94-414F-8247-5307767FC08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E00F22E1-26F7-42F3-AAE2-015A21F09732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00F22E1-26F7-42F3-AAE2-015A21F09732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00F22E1-26F7-42F3-AAE2-015A21F09732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00F22E1-26F7-42F3-AAE2-015A21F09732}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
