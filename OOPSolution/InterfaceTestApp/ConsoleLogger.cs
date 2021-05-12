@@ -8,7 +8,7 @@ namespace InterfaceTestApp
         public void WriteError(string error)
         {
             //throw new NotImplementedException();
-            Debug.
+            //Debug.
         }
 
         public void WriteLog(string message) // 인터페이스 구현
